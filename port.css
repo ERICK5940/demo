@@ -81,7 +81,7 @@ h2:hover{
     background-clip: text;
     text-decoration:underline;
     text-decoration-color: aqua;
-    transition:background-color 0.5s ease-in 0s ;
+    transition:background-color 0.1s ease-in 0s ;
 }
 .box{
     font-size: 20px;
